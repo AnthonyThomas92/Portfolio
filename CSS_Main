@@ -1,0 +1,43 @@
+/* header*/
+header {
+  text-align: center;
+  padding: 60px;
+  background-color: #b4b4ff;
+  color: #000;
+}
+
+h1 {
+  font-size: 65px;
+  padding-top: 15px;
+  text-align: centre;
+  text-transform:uppercase;
+  font-family: "slabo";
+  letter-spacing: 5px
+}
+span{
+  font-size: 30px;
+  letter-spacing: 5px
+}
+
+/*social media buttons*/
+.btn {
+  
+  display: inline-block;
+  color: #fff;
+  border: 2px outset rgba(0, 0, 0, 0.9);
+  border-radius: 20%;
+  background: #000;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+  letter-spacing: 2px;
+  transition: 0.2s;
+}
+.network-name{
+  font-size: 15px;
+}
+/*body*/
+p{
+  padding: 60px;
+  font-size: 30px;
+  text-decoration: underline;
+  font-family: slabo;
+}
