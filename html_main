@@ -1,0 +1,24 @@
+<link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+<header>
+  <h1>Anthony Dove<br>
+    <span><i>Portfolio Page</i></h1></span><br>
+    
+    <!--Social Media Buttons--->
+    <ul class="list-inline intro-social-buttons">
+      <li>
+    <a href="https://www.linkedin.com/in/anthony-dove-b7582166?trk=nav_responsive_tab_profile_pic" target="_blank" class="btn btn-default"><i class="fa fa-linkedin fw"></i><span class="network-name">LinkedIn</span></a>
+    </li>
+      <li>
+        <a href="https://twitter.com/AnthonyDove2" target="_blank" class="btn btn-default"><i class="fa fa-twitter fw"></i><span class="network-name">Twitter</span></a>
+      
+      
+      
+      
+</header>
+    
+  <div>
+    <p>About Me</p>
+  </div>
+    
